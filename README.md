@@ -38,10 +38,3 @@ emotion_ai/
 │── response_builder.py      # Response system
 │── text_processor.py        # Text cleaning utilities
 
----
-
-## 🚀 How to Run
-
-### Step 1: Open terminal in project folder
-```bash
-cd "D:\Python Sem 2\Final"
